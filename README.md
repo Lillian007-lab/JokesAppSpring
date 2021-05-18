@@ -1,2 +1,2 @@
 # JokesAppSpring
-Chuck Norris Jokes
+Chuck Norris Jokes - Spring MVC
